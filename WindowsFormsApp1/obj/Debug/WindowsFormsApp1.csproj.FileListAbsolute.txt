@@ -1,0 +1,10 @@
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\簡譜轉原神鍵盤.exe.config
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\簡譜轉原神鍵盤.exe
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\簡譜轉原神鍵盤.pdb
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\簡譜轉原神鍵盤.exe
+D:\repository\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\簡譜轉原神鍵盤.pdb
